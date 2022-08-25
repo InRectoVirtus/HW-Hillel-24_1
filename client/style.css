@@ -1,0 +1,10 @@
+.general__block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button__block {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
